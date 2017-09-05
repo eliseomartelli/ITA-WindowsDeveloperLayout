@@ -9,6 +9,11 @@ I ported those shortcuts using ```Microsoft Keyboard Layout Creator 1.4```.
 
 To install this keyboard layout, get the latest release from the [releases](/releases) page of this GitHub repo.
 
+### Shortcuts
+
+- ` -> ```AltGr```+```\```
+- ~ -> ```AltGr```+```5```
+
 ### License
 ```
 Copyright (c) 2017 Eliseo Martelli
