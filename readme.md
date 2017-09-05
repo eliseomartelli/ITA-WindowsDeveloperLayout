@@ -11,7 +11,7 @@ To install this keyboard layout, get the latest release from the [releases](/rel
 
 ### Shortcuts
 
-- ` -> ```AltGr```+```\```
+- ` -> ```AltGr```+ \
 - ~ -> ```AltGr```+```5```
 
 ### License
